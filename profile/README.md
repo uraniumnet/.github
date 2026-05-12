@@ -1,7 +1,8 @@
-## Uranium Network
+# Uranium Network
 
 ![Members](https://shields.io)
-[![Website](https://shields.io)](https://uranium.live)
+
+[![Website](https://shields.io)](https://uranium.live)]
 
 Welcome to the Uranium Network organization. We are a collective of developers and privacy advocates dedicated to bypassing internet censorship and providing digital freedom to students worldwide.
 
