@@ -1,7 +1,14 @@
 # Uranium Network
+<p align="center">
+  howdy rowdy🤠
+</p>
 
-[![Members](https://img.shields.io/badge/Members-Active-brightgreen)](https://uranium.live)
-[![website🌐](https://img.shields.io/badge/website-uranium.live-blue)](https://uranium.live)
+[![Members]( https://img.shields.io/badge/Members-active-black?style=for-the-badge)](https://uranium.live)
+[![website🌐](https://img.shields.io/badge/Website-up-brightgreen?style=for-the-badge)](https://uranium.live)
+[![cloudyflary]( https://img.shields.io/badge/Powered%20Using-cloudflare-orange?style=for-the-badge)](https://uranium.live)
+[![Members]( https://img.shields.io/badge/Mining%20For-uranium-blue?style=for-the-badge)](https://uranium.live)
+[![Members]( https://img.shields.io/badge/Done-95%20percent-yellow?style=for-the-badge)](https://uranium.live)
+[![Members]( https://img.shields.io/badge/Giving%20free-cookies🍪-pink?style=for-the-badge)](https://uranium.live)
 
 Welcome to the Uranium Network organization. We are a collective of developers and privacy advocates dedicated to bypassing internet censorship and providing digital freedom to students worldwide.
 
