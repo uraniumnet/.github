@@ -1,6 +1,6 @@
 # Uranium Network
 
-![Members](https://shields.io)
+<img src="https://shields.io" alt="Members">
 
 [![Website](https://shields.io)](https://uranium.live)]
 
