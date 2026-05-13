@@ -4,7 +4,7 @@
 </p>
 
 [![Members]( https://img.shields.io/badge/Members-active-black?style=for-the-badge)](https://uranium.live)
-[![website🌐](https://img.shields.io/badge/Website-up-brightgreen?style=for-the-badge)](https://uranium.live)
+[![website🌐](https://img.shields.io/badge/Website-down-orange?style=for-the-badge)](https://uranium.live)
 [![cloudyflary]( https://img.shields.io/badge/Powered%20Using-cloudflare-orange?style=for-the-badge)](https://uranium.live)
 [![Members]( https://img.shields.io/badge/Mining%20For-uranium-blue?style=for-the-badge)](https://uranium.live)
 [![Members]( https://img.shields.io/badge/Done-95%20percent-yellow?style=for-the-badge)](https://uranium.live)
